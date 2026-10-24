@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoProfileHistory">
+    <profile entry="$USER_HOME$/GoLandProfiles/go_build_vyshkat_-goroutine-2026-10-11-203647-501.pprof">
+      <GoProfileMapEntry>
+        <option name="buildAnchorMillis" value="1791740174581" />
+        <option name="file" value="go_build_vyshkat_-goroutine-2026-10-11-203647-501.pprof" />
+        <option name="ours" value="true" />
+        <option name="profileType" value="GOROUTINE" />
+      </GoProfileMapEntry>
+    </profile>
+  </component>
+</project>
